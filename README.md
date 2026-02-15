@@ -2,14 +2,14 @@
 
 **Build the future of AI-human interaction.**
 
-| | |
-|---|---|
-| **What** | A solo hackathon focused on AI agent interaction — voice, text, UX, and UI |
-| **When** | February 14–15, 2026 (Saturday–Sunday) |
-| **Where** | Virtual — participate from anywhere in Australia |
-| **Prize** | **$5,000 AUD cash** (1st place) + job offers for top performers |
-| **Format** | Solo only — show us what *you* can build |
-| **Hacking Time** | 33 hours |
+|                  |                                                                            |
+| ---------------- | -------------------------------------------------------------------------- |
+| **What**         | A solo hackathon focused on AI agent interaction — voice, text, UX, and UI |
+| **When**         | February 14–15, 2026 (Saturday–Sunday)                                     |
+| **Where**        | Virtual — participate from anywhere in Australia                           |
+| **Prize**        | **$5,000 AUD cash** (1st place) + job offers for top performers            |
+| **Format**       | Solo only — show us what _you_ can build                                   |
+| **Hacking Time** | 33 hours                                                                   |
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Design and build an AI agent with an exceptional interaction experience.**
 
-We want to see how you think about the space between humans and AI. This is deliberately open-ended — you choose the problem, the modality, and the approach. What matters is the *interaction*.
+We want to see how you think about the space between humans and AI. This is deliberately open-ended — you choose the problem, the modality, and the approach. What matters is the _interaction_.
 
 Some directions to inspire you (not requirements):
 
@@ -27,7 +27,7 @@ Some directions to inspire you (not requirements):
 - An agent that handles a complex workflow through conversation
 - Something we haven't thought of yet
 
-**You will be judged on innovation, technical execution, and how good the interaction feels** — not just whether the AI works, but whether a human would *want* to use it.
+**You will be judged on innovation, technical execution, and how good the interaction feels** — not just whether the AI works, but whether a human would _want_ to use it.
 
 Use any tech stack. Use any AI provider. Use AI coding assistants. The only constraint is time.
 
@@ -39,25 +39,25 @@ All times are **AEST (Australian Eastern Standard Time, UTC+10 — Brisbane time
 
 ### Saturday, February 14
 
-| Time | Event |
-|------|-------|
-| **9:00 AM** | Kickoff — challenge explained, rules confirmed |
-| **9:30 AM** | **Hacking begins** |
-| 12:00 PM | Office hours / Q&A (optional, Discord) |
-| 4:00 PM | Community check-in / progress sharing (optional, Discord) |
+| Time        | Event                                                     |
+| ----------- | --------------------------------------------------------- |
+| **9:00 AM** | Kickoff — challenge explained, rules confirmed            |
+| **9:30 AM** | **Hacking begins**                                        |
+| 12:00 PM    | Office hours / Q&A (optional, Discord)                    |
+| 4:00 PM     | Community check-in / progress sharing (optional, Discord) |
 
 ### Sunday, February 15
 
-| Time | Event |
-|------|-------|
+| Time        | Event                                                 |
+| ----------- | ----------------------------------------------------- |
 | **6:00 PM** | **Submission deadline — hard cut-off, no exceptions** |
 
 ### After the Hackathon
 
-| When | Event |
-|------|-------|
-| Feb 16 – Feb 28 | Judging period — judges review all submissions |
-| ~Early March | Winners announced via livestream (details shared on Discord and Email) |
+| When            | Event                                                                  |
+| --------------- | ---------------------------------------------------------------------- |
+| Feb 16 – Feb 28 | Judging period — judges review all submissions                         |
+| ~Early March    | Winners announced via livestream (details shared on Discord and Email) |
 
 ---
 
@@ -91,11 +91,13 @@ All times are **AEST (Australian Eastern Standard Time, UTC+10 — Brisbane time
 ### How We Verify
 
 We will check:
+
 - **Repository creation date** — must be after 9:30 AM AEST, Feb 14
 - **Commit history** — should show natural progression, not a single massive commit
 - **First commit timestamp** — must be after kickoff
 
 **Red flags that will result in disqualification:**
+
 - Repo created before the hackathon
 - Single commit containing the entire project
 - Commits timestamped before kickoff
@@ -127,12 +129,12 @@ To submit, you must complete **all** of the following:
 
 ## Judging Criteria
 
-| Criteria | Weight | What We're Looking For |
-|----------|--------|----------------------|
-| **Interaction Design** | 30% | How intuitive, natural, and delightful is the human-AI interaction? Does it feel good to use? |
-| **Innovation** | 25% | Novel approach, creative problem-solving, or a fresh take on agent interaction |
-| **Technical Execution** | 25% | Code quality, architecture, reliability, completeness |
-| **Presentation** | 20% | Demo quality, clarity of communication, ability to convey your vision |
+| Criteria                | Weight | What We're Looking For                                                                        |
+| ----------------------- | ------ | --------------------------------------------------------------------------------------------- |
+| **Interaction Design**  | 30%    | How intuitive, natural, and delightful is the human-AI interaction? Does it feel good to use? |
+| **Innovation**          | 25%    | Novel approach, creative problem-solving, or a fresh take on agent interaction                |
+| **Technical Execution** | 25%    | Code quality, architecture, reliability, completeness                                         |
+| **Presentation**        | 20%    | Demo quality, clarity of communication, ability to convey your vision                         |
 
 ### Judges
 
@@ -142,13 +144,13 @@ Sophiie senior engineers and CTO. Judging will take place over a 2-week period f
 
 ## Prizes
 
-| Place | Prize |
-|-------|-------|
-| **1st Place** | **$5,000 AUD cash** |
-| **Top Performers** | Job offers or interview fast-tracks at Sophiie* |
-| **All Finalists** | Consideration for current and future roles |
+| Place              | Prize                                            |
+| ------------------ | ------------------------------------------------ |
+| **1st Place**      | **$5,000 AUD cash**                              |
+| **Top Performers** | Job offers or interview fast-tracks at Sophiie\* |
+| **All Finalists**  | Consideration for current and future roles       |
 
-*\*Job offers and interview fast-tracks are entirely at the discretion of Sophiie and are not guaranteed.*
+_\*Job offers and interview fast-tracks are entirely at the discretion of Sophiie and are not guaranteed._
 
 > Participants retain full ownership and IP of their submissions. Sophiie receives a non-exclusive license to review and evaluate submissions for judging purposes only.
 
@@ -160,46 +162,62 @@ Sophiie senior engineers and CTO. Judging will take place over a 2-week period f
 
 ### Participant
 
-| Field | Your Answer |
-|-------|-------------|
-| **Name** | |
-| **University / Employer** | |
+| Field                     | Your Answer                     |
+| ------------------------- | ------------------------------- |
+| **Name**                  | Pragnya Seelin                  |
+| **University / Employer** | University of Technology Sydney |
 
 ### Project
 
-| Field | Your Answer |
-|-------|-------------|
-| **Project Name** | |
-| **One-Line Description** | |
-| **Demo Video Link** | |
-| **Tech Stack** | |
-| **AI Provider(s) Used** | |
+| Field                    | Your Answer                                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **Project Name**         | Sophiie Canvas                                                                                               |
+| **One-Line Description** | A generative multimodal interface that replaces static dashboards with real-time, tool-driven UI components. |
+| **Demo Video Link**      |                                                                                                              |
+| **Tech Stack**           | Next.js 16, React 19, Tailwind CSS 4, Framer Motion, Vercel AI SDK                                           |
+| **AI Provider(s) Used**  | Google Gemini 2.0 Flash                                                                                      |
 
 ### About Your Project
 
 #### What does it do?
 
-<!-- 2-3 paragraphs explaining your agent, the problem it solves, and why the interaction matters -->
+Sophiie Canvas is a rethinking of the traditional business dashboard. Instead of forcing users to navigate complex menus and static charts, it uses a Generative UI approach. The agent understands user intent and dynamically "assembles" the interface in real-time.
 
 #### How does the interaction work?
 
-<!-- Describe the user experience — what does a user see, hear, or do when using your agent? -->
+The user interacts via a clean, minimal chat interface on the left. As the user asks for insights (e.g., "Show me our revenue growth"), the agent doesn't just reply with text. It triggers Agentic Tool Calls that must render React components (Metric Cards, Charts, Tables) on a dynamic "Canvas" to the right.
 
 #### What makes it special?
 
-<!-- What are you most proud of? What would you want the judges to notice? -->
+Instead of a standard "chatbot," it is a Tool-Native Orchestrator. The logic is designed so that the AI can seamlessly transition from text to a visual widget without breaking the user's flow but the version mismatches are preventing the final testing.
+
+This is my first time building an Agent and I have vibe-coded the project but there are lot of takeaways and new things I learned -
+
+1. Setting up the Next js starter code.
+2. Using the API key
+3. Following best-practices like having a .env.example
+4. How local and global installations affect the project
 
 #### How to run it
 
 <!-- Step-by-step instructions to set up and run your project locally -->
 
 ```bash
-# Example:
-# git clone <your-repo>
-# cd <your-project>
-# npm install
-# cp .env.example .env  # add your API keys
-# npm start
+# Clone the forked repository
+git clone https://github.com/[your-username]/hackathon.git
+cd hackathon
+
+# Install dependencies
+npm install
+
+# Setup Environment Variables
+# Create a .env.local file and add:
+# GOOGLE_GENERATIVE_AI_API_KEY=your_gemini_api_key
+
+# Run the development server
+npm run dev
+
+# Open http://localhost:3000 in your browser
 ```
 
 #### Architecture / Technical Notes
@@ -213,6 +231,7 @@ Sophiie senior engineers and CTO. Judging will take place over a 2-week period f
 All participants must adhere to a standard of respectful, professional behavior. Harassment, discrimination, or disruptive behavior of any kind will result in immediate disqualification.
 
 By participating, you agree to:
+
 - Treat all participants, judges, and organizers with respect
 - Submit only your own original work created during the hackathon
 - Not interfere with other participants' work
@@ -233,7 +252,7 @@ By participating, you agree to:
 A: You can use publicly available boilerplate (e.g., `create-react-app`, `Next.js` starter) as a starting point. You cannot use custom templates you built specifically for this hackathon before kickoff.
 
 **Q: Can I use existing open-source libraries and APIs?**
-A: Yes. You can use any publicly available libraries, frameworks, APIs, and services. The code *you* write must be created during the hackathon.
+A: Yes. You can use any publicly available libraries, frameworks, APIs, and services. The code _you_ write must be created during the hackathon.
 
 **Q: Do I need to be in Australia?**
 A: Preferred but not strictly required. The hackathon is primarily targeted at Australian residents and students, but we won't turn away great talent.
